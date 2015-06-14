@@ -1,0 +1,11 @@
+# virtualenv stuff
+bin/
+lib/
+local/
+
+# instance config
+instance/
+
+# ofc
+*.pyc
+*.log
